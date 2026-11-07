@@ -1,0 +1,37 @@
+{
+  "gui.curioscreative.title": "Curios Creative Supplement",
+  "gui.curioscreative.subtitle": "Supplement Settings",
+  "gui.curioscreative.enable": "Enable Feature",
+  "gui.curioscreative.on": "ON",
+  "gui.curioscreative.off": "OFF",
+  "gui.curioscreative.game_mode": "Game Mode",
+  "gui.curioscreative.mode.creative_only": "Creative Only",
+  "gui.curioscreative.mode.creative_op": "Creative + Survival-Op",
+  "gui.curioscreative.mode.all": "All",
+  "gui.curioscreative.status.enabled": "Feature is currently enabled",
+  "gui.curioscreative.status.disabled": "Feature is currently disabled",
+  "gui.curioscreative.note": "Changes take effect immediately",
+  "gui.curioscreative.readonly": "Only operators can change these settings",
+  "gui.curioscreative.done": "Done",
+  "gui.curioscreative.open_settings": "Curios Creative Supplement Settings",
+
+  "gui.curioscreative.picker.title": "Equip: %s",
+  "gui.curioscreative.picker.search": "Search",
+  "gui.curioscreative.picker.clear": "Clear Slot",
+  "gui.curioscreative.picker.close": "Close",
+  "gui.curioscreative.picker.page": "%s / %s",
+  "gui.curioscreative.picker.all_mods": "All Mods",
+  "gui.curioscreative.picker.empty": "No valid items for this slot",
+  "gui.curioscreative.picker.scanning": "Scanning... %s%%",
+
+  "key.curioscreative.open_settings": "Open Creative Supplement Settings",
+  "key.categories.curioscreative": "Curios Creative Supplement",
+
+  "message.curioscreative.denied.disabled": "Curios Creative Supplement is not available to you right now",
+  "message.curioscreative.denied.invalid_slot": "That Curios slot is not available",
+  "message.curioscreative.denied.invalid_item": "That item is not valid for this slot",
+  "message.curioscreative.denied.blacklisted": "That item is blacklisted",
+  "message.curioscreative.denied.cannot_equip": "That item cannot be equipped here",
+  "message.curioscreative.denied.locked": "The item in this slot cannot be removed",
+  "message.curioscreative.denied.not_admin": "Only operators can change these settings"
+}
