@@ -131,6 +131,7 @@ dev.curioscreative
 ## Credits
 
 - This mod was **made with AI**.
+- Ideas, and **creative direction came from me**.
 - Inspired by [TaCZ Creative Supplement](https://www.curseforge.com/minecraft/mc-mods/tacz-creative-supplement).
 - Built on the [Curios API](https://www.curseforge.com/minecraft/mc-mods/curios) by TheIllusiveC4.
 
