@@ -1,0 +1,43 @@
+modLoader="javafml"
+loaderVersion="[47,)"
+license="MIT"
+issueTrackerURL="https://github.com/YOUR_USERNAME/curios-creative-supplement/issues"
+
+[[mods]]
+modId="curioscreative"
+version="1.0.0"
+displayName="Curios Creative Supplement"
+logoFile="logo.png"
+authors="YourName"
+credits="Built on the Curios API by TheIllusiveC4. Optional controller support via Controllable by MrCrayfish."
+displayURL="https://github.com/YOUR_USERNAME/curios-creative-supplement"
+description='''Equip any valid Curios item into any Curios slot in creative mode, without owning it. Pick from a searchable, mod-filterable list; the server validates everything and your inventory is never touched.'''
+
+[[dependencies.curioscreative]]
+    modId="forge"
+    mandatory=true
+    versionRange="[47.1.0,)"
+    ordering="NONE"
+    side="BOTH"
+
+[[dependencies.curioscreative]]
+    modId="minecraft"
+    mandatory=true
+    versionRange="[1.20.1,1.21)"
+    ordering="NONE"
+    side="BOTH"
+
+[[dependencies.curioscreative]]
+    modId="curios"
+    mandatory=true
+    versionRange="[5.4.0,6.0)"
+    ordering="AFTER"
+    side="BOTH"
+
+# Optional soft dependency: never required, only ordered after if present.
+[[dependencies.curioscreative]]
+    modId="controllable"
+    mandatory=false
+    versionRange="[0.20.0,)"
+    ordering="AFTER"
+    side="CLIENT"
